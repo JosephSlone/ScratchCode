@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.AI;
 
-
 public class SimpleWASDController : MonoBehaviour
 {
     [SerializeField] float speed = 8f;
