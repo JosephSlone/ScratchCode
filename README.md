@@ -1,5 +1,5 @@
 # ScratchCode
-Just a place to leave code that I share
+Starting a code library for myself.  Usualy C# but not necessarily Unity Related.
 
 SimpleWASDController.cs is an update to WASController.cs - I removed code and namespaces that weren't relevant.
   
